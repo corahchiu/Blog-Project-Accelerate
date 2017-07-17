@@ -13,6 +13,7 @@
     "express": "^4.15.3",
     "express-handlebars": "^3.0.0",
     "faker": "^4.1.0",
-    "jsonfile": "^3.0.1"
+    "jsonfile": "^3.0.1",
+    "pg": "^6.4.1"
   }
 }
